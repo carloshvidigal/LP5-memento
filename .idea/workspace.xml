@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="626d98a0-7cd7-40ea-b8ca-7d2b6b18ef47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memento/Aircraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memento/AircraftState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memento/AircraftStateFlying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memento/AircraftStateLanding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memento/AircraftStateParked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memento/AircraftStateTakingOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/memento/AircraftStateTaxiing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AircraftTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Q7cXFxSqchmVrx1jVsxt37BmDK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.All in LP5-memento">
+    <configuration name="AircraftTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LP5-memento" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AircraftTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AircraftTest.shoudStoreStates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LP5-memento" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AircraftTest" />
+      <option name="METHOD_NAME" value="shoudStoreStates" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AircraftTest.shouldReturnInvalidIndexException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LP5-memento" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AircraftTest" />
+      <option name="METHOD_NAME" value="shouldReturnInvalidIndexException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AircraftTest.shouldReturnToPreviousState" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LP5-memento" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AircraftTest" />
+      <option name="METHOD_NAME" value="shouldReturnToPreviousState" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in LP5-memento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LP5-memento" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in LP5-memento" />
+        <item itemvalue="JUnit.AircraftTest.shouldReturnInvalidIndexException" />
+        <item itemvalue="JUnit.AircraftTest.shouldReturnToPreviousState" />
+        <item itemvalue="JUnit.AircraftTest" />
+        <item itemvalue="JUnit.AircraftTest.shoudStoreStates" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="626d98a0-7cd7-40ea-b8ca-7d2b6b18ef47" name="Changes" comment="" />
+      <created>1684708101129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684708101129</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
